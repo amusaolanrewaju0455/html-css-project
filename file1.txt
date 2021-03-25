@@ -1,0 +1,4 @@
+My name is Amusa Lanre
+Welcome To The Code Center
+We are learning about Git.
+Git is a version control software
